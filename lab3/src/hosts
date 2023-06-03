@@ -1,0 +1,8 @@
+pp2 slots=1 # 1st node 192.168.202.2 
+pp3 slots=1 # 2ed node 192.168.202.3
+pp4 slots=1 # 3st node 192.168.202.4
+pp5 slots=1 # 4th node 192.168.202.5
+pp6 slots=1 # 5th node 192.168.202.6
+pp7 slots=1 # 6th node 192.168.202.7
+pp8 slots=1 # 7th node 192.168.202.8
+pp10 slots=1 # 8th node 192.168.202.10
